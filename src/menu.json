@@ -1,0 +1,349 @@
+{
+ "cats": [
+  {
+   "id": "pan",
+   "en": "Pan Dulce",
+   "es": "Pan Dulce",
+   "icon": "🥐"
+  },
+  {
+   "id": "salado",
+   "en": "Bolillo & Savory",
+   "es": "Bolillo y Salado",
+   "icon": "🥖"
+  },
+  {
+   "id": "churros",
+   "en": "Churros & Donuts",
+   "es": "Churros y Donas",
+   "icon": "🍩"
+  },
+  {
+   "id": "cakes",
+   "en": "Cakes & Cheesecake",
+   "es": "Pasteles y Cheesecake",
+   "icon": "🎂"
+  },
+  {
+   "id": "frio",
+   "en": "Chilled Treats",
+   "es": "Postres Fríos",
+   "icon": "🍮"
+  },
+  {
+   "id": "mini",
+   "en": "Cupcakes & Biscuits",
+   "es": "Cupcakes y Bizcochos",
+   "icon": "🧁"
+  }
+ ],
+ "items": [
+  {
+   "id": "concha-v",
+   "cat": "pan",
+   "price": null,
+   "img": "conchas-rack.webp",
+   "en": "Concha (Vanilla)",
+   "es": "Concha de Vainilla",
+   "den": "The icon. Soft, pillowy bread with a crackly sugar shell.",
+   "des": "El clásico. Pan suave con su costra de azúcar crujiente."
+  },
+  {
+   "id": "concha-c",
+   "cat": "pan",
+   "price": null,
+   "img": "bread-bowl.webp",
+   "en": "Concha (Chocolate)",
+   "es": "Concha de Chocolate",
+   "den": "Same pillowy dough, chocolate shell.",
+   "des": "La misma masa suavecita con cubierta de chocolate."
+  },
+  {
+   "id": "cuernito",
+   "cat": "pan",
+   "price": null,
+   "img": "tray.webp",
+   "en": "Cuernito",
+   "es": "Cuernito",
+   "den": "Buttery, flaky Mexican croissant.",
+   "des": "Cuernito de mantequilla, hojaldrado y delicioso."
+  },
+  {
+   "id": "durazno",
+   "cat": "pan",
+   "price": null,
+   "img": "tray.webp",
+   "en": "Durazno",
+   "es": "Durazno",
+   "den": "Sweet 'peach' bread with a sugared crust.",
+   "des": "Pan dulce 'durazno' con costra de azúcar."
+  },
+  {
+   "id": "marranito",
+   "cat": "pan",
+   "price": null,
+   "img": "case.webp",
+   "en": "Marranito (Puerquito)",
+   "es": "Marranito (Puerquito)",
+   "den": "Soft gingerbread piggy cookie — a fan favorite.",
+   "des": "Galleta suave de piloncillo con forma de marranito."
+  },
+  {
+   "id": "empanada",
+   "cat": "pan",
+   "price": null,
+   "img": "rack-color.webp",
+   "en": "Pumpkin Empanada",
+   "es": "Empanada de Calabaza",
+   "den": "Real pumpkin filling, folded and baked fresh.",
+   "des": "Relleno de calabaza de verdad, horneada al día."
+  },
+  {
+   "id": "cortadillo",
+   "cat": "pan",
+   "price": null,
+   "img": "case.webp",
+   "en": "Cortadillo",
+   "es": "Cortadillo",
+   "den": "Tender coconut-and-spice sweet bread square.",
+   "des": "Cuadrito tierno de pan dulce con coco y especias."
+  },
+  {
+   "id": "bunuelo",
+   "cat": "pan",
+   "price": null,
+   "img": "rolls-rack.webp",
+   "en": "Buñuelo",
+   "es": "Buñuelo",
+   "den": "Crisp, cinnamon-sugar fritter — just like abuela's.",
+   "des": "Buñuelo crujiente con canela y azúcar, como el de la abuela."
+  },
+  {
+   "id": "quesadilla",
+   "cat": "pan",
+   "price": null,
+   "img": "muffin.webp",
+   "en": "Quesadilla de Atole",
+   "es": "Quesadilla de Atole",
+   "den": "Rich, cheesy-sweet muffin-style bread.",
+   "des": "Pan estilo muffin, dulce y con sabor a queso."
+  },
+  {
+   "id": "rosca",
+   "cat": "pan",
+   "price": null,
+   "img": "rosca.webp",
+   "note": "seasonal",
+   "en": "Rosca de Reyes",
+   "es": "Rosca de Reyes",
+   "den": "Three Kings' Day bread, topped with candied fruit. Seasonal — order ahead.",
+   "des": "Pan del Día de Reyes con fruta cristalizada. De temporada — pídela con tiempo."
+  },
+  {
+   "id": "bolillo",
+   "cat": "salado",
+   "price": null,
+   "img": "bolillos.webp",
+   "en": "Bolillo",
+   "es": "Bolillo",
+   "den": "Crusty outside, soft inside. Great for tortas. They go fast — come early!",
+   "des": "Crujiente por fuera, suave por dentro. ¡Perfecto para tortas! Se acaban rápido — ven temprano."
+  },
+  {
+   "id": "tamal-p",
+   "cat": "salado",
+   "price": null,
+   "img": null,
+   "note": "weekend",
+   "en": "Tamales (Pork)",
+   "es": "Tamales de Puerco",
+   "den": "Hot tamales — Saturdays & Sundays only.",
+   "des": "Tamales calientitos — solo sábados y domingos."
+  },
+  {
+   "id": "tamal-c",
+   "cat": "salado",
+   "price": null,
+   "img": null,
+   "note": "weekend",
+   "en": "Tamales (Chicken)",
+   "es": "Tamales de Pollo",
+   "den": "Hot tamales — Saturdays & Sundays only.",
+   "des": "Tamales calientitos — solo sábados y domingos."
+  },
+  {
+   "id": "barbacoa",
+   "cat": "salado",
+   "price": null,
+   "img": null,
+   "note": "weekend",
+   "en": "Barbacoa",
+   "es": "Barbacoa",
+   "den": "Weekend barbacoa. Pairs with a fresh bolillo!",
+   "des": "Barbacoa de fin de semana. ¡Con un bolillo recién hecho!"
+  },
+  {
+   "id": "churro-c",
+   "cat": "churros",
+   "price": 1.85,
+   "img": "churros.webp",
+   "en": "Churro Cajeta",
+   "es": "Churro de Cajeta",
+   "den": "Filled with caramelized goat's-milk cajeta.",
+   "des": "Relleno de cajeta caramelizada."
+  },
+  {
+   "id": "churro-p",
+   "cat": "churros",
+   "price": 1,
+   "img": "churros.webp",
+   "en": "Churro (Plain)",
+   "es": "Churro Sencillo",
+   "den": "Crisp, cinnamon-sugar classic.",
+   "des": "El clásico con azúcar y canela."
+  },
+  {
+   "id": "donut-s",
+   "cat": "churros",
+   "price": 0.65,
+   "img": "tray.webp",
+   "en": "Donut (Sugar)",
+   "es": "Dona de Azúcar",
+   "den": "Thick, old-school sugar donut.",
+   "des": "Dona gruesa de azúcar, de las de antes."
+  },
+  {
+   "id": "donut-c",
+   "cat": "churros",
+   "price": 0.75,
+   "img": "tray.webp",
+   "en": "Donut (Chocolate)",
+   "es": "Dona de Chocolate",
+   "den": "Thick chocolate-glazed donut.",
+   "des": "Dona gruesa con chocolate."
+  },
+  {
+   "id": "tres-leches",
+   "cat": "cakes",
+   "price": null,
+   "img": "cake-fruit.webp",
+   "cake": true,
+   "en": "Tres Leches Cake",
+   "es": "Pastel de Tres Leches",
+   "den": "Our most-loved cake. With or without fruit. Order 3 days ahead for a custom one.",
+   "des": "Nuestro pastel más querido. Con o sin fruta. Pide con 3 días para uno personalizado."
+  },
+  {
+   "id": "birthday",
+   "cat": "cakes",
+   "price": null,
+   "img": "cake-love.webp",
+   "cake": true,
+   "en": "Birthday / Custom Cake",
+   "es": "Pastel de Cumpleaños / Personalizado",
+   "den": "Birthdays, quinceañeras, graduations, weddings. Tell us your dream cake!",
+   "des": "Cumpleaños, quinceañeras, graduaciones, bodas. ¡Cuéntanos tu pastel soñado!"
+  },
+  {
+   "id": "carrot",
+   "cat": "cakes",
+   "price": null,
+   "img": "cakes-fridge.webp",
+   "cake": true,
+   "en": "Carrot Cake",
+   "es": "Pastel de Zanahoria",
+   "den": "Moist, spiced and creamy.",
+   "des": "Húmedo, con especias y cremoso."
+  },
+  {
+   "id": "cheese",
+   "cat": "cakes",
+   "price": 1.5,
+   "img": "cakes-fridge.webp",
+   "en": "Cheesecake Slice",
+   "es": "Rebanada de Cheesecake",
+   "den": "Creamy classic cheesecake.",
+   "des": "Cheesecake cremoso clásico."
+  },
+  {
+   "id": "cheese-f",
+   "cat": "cakes",
+   "price": 1.5,
+   "img": "cakes-fridge.webp",
+   "en": "Cheesecake con Fresa",
+   "es": "Cheesecake con Fresa",
+   "den": "Topped with strawberry.",
+   "des": "Con fresa encima."
+  },
+  {
+   "id": "flan",
+   "cat": "frio",
+   "price": null,
+   "img": null,
+   "en": "Flan",
+   "es": "Flan",
+   "den": "Silky caramel custard.",
+   "des": "Flan sedoso con caramelo."
+  },
+  {
+   "id": "gelatina",
+   "cat": "frio",
+   "price": null,
+   "img": null,
+   "en": "Gelatina",
+   "es": "Gelatina",
+   "den": "Colorful Mexican jelly cups.",
+   "des": "Gelatinas de colores al estilo mexicano."
+  },
+  {
+   "id": "pudin",
+   "cat": "frio",
+   "price": null,
+   "img": null,
+   "en": "Pudín",
+   "es": "Pudín",
+   "den": "Creamy chilled pudding.",
+   "des": "Pudín cremoso bien frío."
+  },
+  {
+   "id": "cup-chino",
+   "cat": "mini",
+   "price": 0.85,
+   "img": "muffin.webp",
+   "en": "Cupcake Chino",
+   "es": "Cupcake Chino",
+   "den": "Fluffy cupcake, chino style.",
+   "des": "Cupcake esponjoso estilo chino."
+  },
+  {
+   "id": "cup",
+   "cat": "mini",
+   "price": 0.65,
+   "img": "muffin.webp",
+   "en": "Cupcake",
+   "es": "Cupcake",
+   "den": "Classic, under a dollar!",
+   "des": "El clásico, ¡a menos de un dólar!"
+  },
+  {
+   "id": "bisc",
+   "cat": "mini",
+   "price": 0.75,
+   "img": "case.webp",
+   "en": "Biscuit",
+   "es": "Bizcocho",
+   "den": "Plain biscuit.",
+   "des": "Bizcocho sencillo."
+  },
+  {
+   "id": "bisc-t",
+   "cat": "mini",
+   "price": 0.75,
+   "img": "case.webp",
+   "en": "Wheat Biscuit (Trigo)",
+   "es": "Bizcocho de Trigo",
+   "den": "Hearty wheat biscuit.",
+   "des": "Bizcocho de trigo."
+  }
+ ]
+}
