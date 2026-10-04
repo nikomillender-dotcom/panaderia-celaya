@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://www.panaderiacelaya.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/"/><xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/"/></url>
-  <url><loc>https://www.panaderiacelaya.com/es/</loc><changefreq>weekly</changefreq><priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/"/><xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/"/></url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/es/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/menu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/menu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/menu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/menu/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/es/menu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/menu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/menu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/menu/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/cakes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/cakes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/cakes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/cakes/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/es/cakes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/cakes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/cakes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/cakes/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/about/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/es/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/about/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/visit/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/visit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/visit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/visit/"/>
+  </url>
+  <url>
+    <loc>https://www.panaderiacelaya.com/es/visit/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.panaderiacelaya.com/visit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.panaderiacelaya.com/es/visit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.panaderiacelaya.com/visit/"/>
+  </url>
 </urlset>
